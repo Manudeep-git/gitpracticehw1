@@ -1,1 +1,1 @@
--- Homework 1 of Wynisco Bootcamp
+Homework 1 of Wynisco Bootcamp
