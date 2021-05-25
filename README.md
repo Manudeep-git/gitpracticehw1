@@ -1,1 +1,1 @@
-# gitpracticehw1
+-- Homework 1 of Wynisco Bootcamp
